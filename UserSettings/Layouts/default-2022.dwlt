@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2651
     height: 1374
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 106
+  controlID: 40
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 42
+  controlID: 41
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 43
+  controlID: 42
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -321,7 +321,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Materials
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -329,16 +329,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/smnirven/Projects/bitspoke/Ares
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ac590000
-    m_LastClickedID: 22956
-    m_ExpandedIDs: 000000009e59000000ca9a3b
+    m_SelectedIDs: c6590000
+    m_LastClickedID: 22982
+    m_ExpandedIDs: 00000000c059000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -366,7 +366,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009e590000
+    m_ExpandedIDs: 00000000c0590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -506,9 +506,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4e5e0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 76b9ffffb2d9ffff4cf2ffff30fbffff58590000
+      m_SelectedIDs: 94d8ffff
+      m_LastClickedID: -10092
+      m_ExpandedIDs: 70e4ffff24fbffff5259000060590000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -862,9 +862,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.7546537, y: -16.306557, z: 51.860016}
+    m_Target: {x: -3.715424, y: -1.8942752, z: 27.969025}
     speed: 2
-    m_Value: {x: 0.7546537, y: -16.306557, z: 51.860016}
+    m_Value: {x: -3.715424, y: -1.8942752, z: 27.969025}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -910,13 +910,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.3921463, y: -0.09604137, z: 0.041219115, w: 0.91395575}
+    m_Target: {x: 0.3252335, y: -0.053578317, z: 0.018472342, w: 0.94394356}
     speed: 2
-    m_Value: {x: 0.392143, y: -0.09604056, z: 0.041218773, w: 0.9139481}
+    m_Value: {x: 0.3266179, y: -0.054965172, z: 0.01904247, w: 0.94336474}
   m_Size:
-    m_Target: 20.185076
+    m_Target: 4.691906
     speed: 2
-    m_Value: 20.185076
+    m_Value: 4.691906
   m_Ortho:
     m_Target: 0
     speed: 2
